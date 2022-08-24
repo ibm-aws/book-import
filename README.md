@@ -1,10 +1,14 @@
-###### RHACM Cluster LifeCycle
+###### RHACM Use Case
 In this session, you will explore the Cluster LifeCycle capabilities of Red Hat® Advanced Cluster Management for Kubernetes (RHACM).
 
 ###### Goals
 - Understand the functions of hub and managed clusters.
 - Understand Cluster Lifecycle capabilities.
 - Import an OpenShift® cluster to RHACM.
+- Understand Application Lifecycle capabilities in RHACM.
+- Deploy an application to a managed cluster.
+- Understand GRC in RHACM.
+
 
 ###### Introduction
 
