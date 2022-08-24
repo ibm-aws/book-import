@@ -137,6 +137,10 @@ This is a complex topic, and this course is only providing an overview. Please c
 <img src=images/createpolicy.png/> <br>
 
 
+###### Reference Video Link.
+
+https://ibm.box.com/s/cfvsny7jvrz0wd12vu73i4iv52zwuu03
+
 
 ###### Summary
 
