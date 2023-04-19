@@ -1,7 +1,7 @@
 ###### RHACM Use Case
 In this session, you will explore the Cluster LifeCycle capabilities of Red Hat® Advanced Cluster Management for Kubernetes (RHACM).
 
-###### Goals
+###### Goals.
 - Understand the functions of hub and managed clusters.
 - Understand Cluster Lifecycle capabilities.
 - Import an OpenShift® cluster to RHACM.
@@ -10,7 +10,7 @@ In this session, you will explore the Cluster LifeCycle capabilities of Red Hat�
 - Understand GRC in RHACM.
 
 
-###### Introduction
+###### Introduction.
 
 RHACM allows you to manage many Kubernetes clusters from a single location. While the concept of a stretch cluster is something that is often requested, the complexity and potential problems that come with it due to conditions that are beyond the cluster’s control—such as network latencies—usually outweigh the perceived benefits. The preferred approach is multiple clusters—which can be large or small—that are centrally managed. Red Hat Advanced Cluster Management provides this functionality and more.
 
